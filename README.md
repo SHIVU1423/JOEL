@@ -1,6 +1,6 @@
 # JOEL
-online food delivery
-weekend special offer:
+#online food delivery
+#weekend special offer:
 burger
 pizza
 fries
